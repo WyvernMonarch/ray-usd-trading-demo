@@ -6,7 +6,7 @@
 ## Инструменты
 - Python: Polars, SQLite, Matplotlib, Scikit-learn
 - API: GeckoTerminal
-- Данные: 5-минутные OHLCV данные пула RAY/USD за день/месяц
+- Данные: минутные OHLCV данные пула RAY/USD за день/месяц
 - Хранилище: SQLite (`ray_usd_data.db`)
 
 ## Шаги
