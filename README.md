@@ -7,7 +7,7 @@
 - Python: Polars, SQLite, Matplotlib, Scikit-learn
 - API: GeckoTerminal
 - Данные: минутные OHLCV данные пула SOL/USDC за день/месяц
-- Хранилище: SQLite (`ray_usd_data.db`)
+- Хранилище: SQLite (`sol_usdc_data.db`)
 
 ## Шаги
 1. Сбор данных через GeckoTerminal API и сохранение в SQLite/Polars.
