@@ -1,12 +1,12 @@
-# RAY/USD Trading Strategy Analysis
+# SOL/USDC Trading Strategy Analysis
 
 ## Цель
-Разработка и тестирование трейдинг стратегии для пула RAY/USD на Raydium (Solana) с использованием GeckoTerminal API, анализ рыночных метрик, рисков и ML-предсказаний.
+Разработка и тестирование трейдинг стратегии для пула SOL/USDC на Solana с использованием GeckoTerminal API, анализ рыночных метрик, рисков и ML-предсказаний.
 
 ## Инструменты
 - Python: Polars, SQLite, Matplotlib, Scikit-learn
 - API: GeckoTerminal
-- Данные: минутные OHLCV данные пула RAY/USD за день/месяц
+- Данные: минутные OHLCV данные пула SOL/USDC за день/месяц
 - Хранилище: SQLite (`ray_usd_data.db`)
 
 ## Шаги
